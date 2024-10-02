@@ -53,7 +53,6 @@ const products=useSelector(state => state.cart.products)
             <Link to="/Home"  className="hover:underline">Home</Link>
             <Link to="/Shop" className="hover:underline">Shop</Link>
             <Link to="/Contact"className="hover:underline">Contact</Link>
-            <Link to="/" className="hover:underline">About</Link>
 
         </div>
       
